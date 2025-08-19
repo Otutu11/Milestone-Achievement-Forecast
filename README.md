@@ -36,24 +36,8 @@ Run the app:
 
 👤 Author
 
-    Your Name
+    Name: Otutu Anslem
 
-    GitHub: @Akajiaku1 
+    GitHub: https://github.com/Otutu11
 
-
----
-
-## ✅ Next Steps for You:
-
-1. Create a new GitHub repo (e.g., `milestone-forecast-app`)
-2. Add the three files:
-   - `milestone_forecast_app.py`
-   - `requirements.txt`
-   - `README.md`
-3. Push them to GitHub
-4. Deploy on [Streamlit Cloud](https://streamlit.io/cloud)
-
----
-
-Would you like me to **generate a ZIP file** with all these files ready for upload, or help you customize the app to use **real milestone data from Excel** instead of synthetic?
 
